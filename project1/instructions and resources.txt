@@ -17,4 +17,10 @@ Resources/Questions
 
 * Python was unable to locate my csv files within the IDE when running the program, but running script from terminal python then realized the files were in my working directory. -> https://stackoverflow.com/questions/12201928/open-gives-filenotfounderror-ioerror-errno-2-no-such-file-or-directory
 
-* Learning more about what the os.getcwd() command did in python.
+* Learning more about what the os.getcwd() command did in python. -> https://www.tutorialspoint.com/python/os_getcwd.htm
+
+* I always need a refresh on github and how to add commit push properly -> https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
+
+* Needed to create a personal access token, looked it up -> https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+* Did a minial amount of research on which persmission settins my tokens needed. (I ended up just selecting all of them to avoid the headache now.) -> https://docs.github.com/en/rest/overview/permissions-required-for-github-apps#actions
