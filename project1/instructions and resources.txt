@@ -1,0 +1,20 @@
+1. have csv sample data in repo.
+2. basic hello world.
+3. read each line from both files and print out each line.
+
+Resources/Questions
+* I used the following websites to help me. This might be useful to gauge where what my knowledge is on certain topics.
+
+* Configure a second GitHub account on my machine to manage different projects -> https://alvinalexander.com/git/git-show-change-username-email-address/
+
+* More help on configuring a second GitHub account -> https://smarterco.de/set-the-username-and-email-in-git-globally-and-per-project/
+
+* Python tutorial I followed on how to read csv files -> https://realpython.com/python-csv/#:~:text=Reading%20from%20a%20CSV%20file,which%20does%20the%20heavy%20lifting.
+
+* Python documentation on the csv library. -> https://docs.python.org/3/library/csv.html
+
+* I google searched what's the difference between HTTPS vs SSH for a GitHub repo -> https://www.google.com/search?q=git+clone+http+vs+ssh&safe=active&rlz=1C5CHFA_en&sxsrf=ALiCzsaAzRuwL-QHYNevU3hWDwtYmBqCjQ%3A1666314628187&ei=hPFRY7_sCsufqtsP0eGBuA8&oq=git+clone+http+vs+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgUIABCABDIGCAAQFhAeMgYIABAWEB4yBQgAEIYDMgUIABCGAzoKCAAQRxDWBBCwAzoNCAAQ5AIQ1gQQsAMYAToKCC4QxwEQ0QMQJzoECCMQJzoECAAQQzoKCC4QxwEQ0QMQQzoFCAAQkQI6EQguEIAEELEDEIMBEMcBENEDOgoIABCxAxCDARBDOgsIABCABBCxAxCDAToQCC4QsQMQgwEQxwEQ0QMQQzoHCAAQsQMQQzoICAAQsQMQkQI6CwgAELEDEIMBEJECOgoIABCABBCHAhAUSgQITRgBSgQIQRgASgQIRhgBUJULWOAdYOdPaAFwAXgAgAHDAYgBgBKSAQQwLjE4mAEAoAEByAENwAEB2gEGCAEQARgJ&sclient=gws-wiz-serp
+
+* Python was unable to locate my csv files within the IDE when running the program, but running script from terminal python then realized the files were in my working directory. -> https://stackoverflow.com/questions/12201928/open-gives-filenotfounderror-ioerror-errno-2-no-such-file-or-directory
+
+* Learning more about what the os.getcwd() command did in python.
