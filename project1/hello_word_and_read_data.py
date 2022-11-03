@@ -205,4 +205,23 @@ def main():
 if __name__=="__main__":
     main()
 
-# YO PERERZ REMEMBER THAT WE CHANGE DIRECOTRY IN THE GET FILE NAME FUNCTION
+'''
+for file in directory:
+    row = 0
+    for row in file:
+        if row == 0:
+            find_column_number(drop_number)
+        else:
+            drop column
+            concat first and last
+            write_record(row)
+
+
+def write_record(row):
+    age_var = parse_age(row, age_index) # index maybe if it was input from user
+    with open(f'partitioned_data/age={age_var}/data', 'append_mode") as f:
+        write row
+
+# save memory and time.
+# big data sets we will not be able to load data in memory
+'''
