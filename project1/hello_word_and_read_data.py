@@ -1,5 +1,4 @@
 import csv
-from distutils.log import debug
 from operator import concat # built in csv library
 import os # operating system
 import glob
